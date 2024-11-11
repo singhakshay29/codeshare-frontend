@@ -8,7 +8,7 @@ import { FaCopy } from "react-icons/fa";
 import { FaShareAlt } from "react-icons/fa";
 import toast from 'react-hot-toast';
 import axios from 'axios';
-const Server_Url='http://localhost:3000';
+const Server_Url='https://codeshare-live.vercel.app';
 
 
 
